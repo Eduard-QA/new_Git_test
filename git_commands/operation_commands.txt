@@ -5,6 +5,8 @@
 * git checkout name_branch      // переключает на новую ветку
 * git checkout -b new_branch    // создаёт новую ветку и переключает на неё
 * git branch -d name_branch     // Git не удаляет историю коммитов из репозитория. Он только удаляет ссылку на ветку
+* git branch -m old-name new-name   //  переименовать ветку
+
 
 
 
