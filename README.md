@@ -1,2 +1,2 @@
 1. Introduction to the program.
-2. Basic functions and first tests
+2. Basic functions and commands
